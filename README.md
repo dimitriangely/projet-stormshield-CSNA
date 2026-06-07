@@ -142,9 +142,9 @@ https://192.168.1.254/admin
 
 | Fichier | Contenu |
 |---|---|
-| `TP2 - LAB Prise en main du firewall et traces Dimitri Ibra (1).pdf` | Compte-rendu TP2 |
-| `TP3 - LAB Les objets Dimitri Ibrahima (1).pdf` | Compte-rendu TP3 |
-| `TP4 - LAB Configuration réseau Dimitri Ibrahima (1).pdf` | Compte-rendu TP4 |
+| `TP2 - LAB Prise en main du firewall et traces Dimitri Ibra.pdf` | Compte-rendu TP2 |
+| `TP3 - LAB Les objets Dimitri Ibrahima.pdf` | Compte-rendu TP3 |
+| `TP4 - LAB Configuration réseau Dimitri Ibrahima.pdf` | Compte-rendu TP4 |
 | `CSNA_v4_Livre_de_formation_avec_annexes_et_virtual_box_2021_12_21 7.pdf` | Livre de formation CSNA v4 |
 
 ---
